@@ -1,0 +1,5 @@
+print("My name is Andrew Badzioch.")
+print("COSC1436Py-15403-Online-Sp24-RT")
+print("Hello World")
+print("Python is fun.")
+print("I am excited to learn more about Python.")
